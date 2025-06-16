@@ -1,5 +1,14 @@
 # DevOps Challenge q6
 
+## Pre requisites
+- **1**: Create IAM user with access and secret key. Make sure to store them in a password manager such as BitWarden.
+
+- **2**: Export the variables to your local env, instead of having to enter these every time. 
+        export AWS_ACCESS_KEY_ID=
+        export AWS_SECRET_ACCESS_KEY=
+
+- **3**: Run aws configure
+
 
 ## Terraform Exercise 1: Create an AWS S3 Bucket
 
