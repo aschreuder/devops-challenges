@@ -7,11 +7,15 @@
 
 Your task is to write a Terraform script that does the following:
 
-- **Step 1**: Create an AWS S3 bucket named `tf-test-bucket-yourname`.
+- **Step 1**: Create access keys in AWS.
 
-- **Step 2**: Enable versioning on the S3 bucket.
+- **Step 2**: Export these access keys in your console
 
-- **Step 3**: Create a folder within that S3 bucket and name it `uploads`.
+- **Step 3**: Create an AWS S3 bucket named `tf-test-bucket-yourname`.
+
+- **Step 4**: Enable versioning on the S3 bucket.
+
+- **Step 5**: Create a folder within that S3 bucket and name it `uploads`.
 
 ### Notes
 
